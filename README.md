@@ -1,5 +1,4 @@
-# Awards Won - 
-## *Tuffy Hacks 2022 WINNER*
+# Award Won - *Tuffy Hacks 2022 WINNER*
 
 *Subcategories - Best use of Digital Ocean, Dream Big and Create More Cheers with AB InBev, Most Creative Use of GitHub*
 
