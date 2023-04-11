@@ -1,7 +1,7 @@
-Awards Won - 
-Tuffy Hacks 2022 WINNER** 
+# Awards Won - 
+## *Tuffy Hacks 2022 WINNER*
 
-Subcategories - Best use of Digital Ocean, Dream Big and Create More Cheers with AB InBev, Most Creative Use of GitHub
+*Subcategories - Best use of Digital Ocean, Dream Big and Create More Cheers with AB InBev, Most Creative Use of GitHub*
 
 Inspiration - 
 This app's inspiration was drawn from me forgetting about deadlines and everyday tasks. I always slack off and delay things to the last minute so this app was created to provide a space for procrastinators to unite and boost productivity.
